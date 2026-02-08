@@ -2,7 +2,7 @@
 
 University coursework (MSc Econometrics / Machine Learning).
 
-Using a synthetic, school-clustered “mindset intervention” dataset, I estimated the average treatment effect (ATE) and compared machine-learning-based approaches for estimating the nuisance functions.
+Using a synthetic, school-clustered “mindset intervention” dataset, I estimated the average treatment effect (ATE) of the intervention on student outcomes and compared machine-learning-based approaches for estimating the nuisance functions.
 
 ## What I did
 - Implemented a cluster leave-one-school-out estimation procedure to reduce overfitting across schools
